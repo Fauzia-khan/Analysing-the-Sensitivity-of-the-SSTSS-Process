@@ -8,3 +8,5 @@
 
 4. **SSTSS process Application Results using D2overlap - EU Dataset** - shows the  detailed results of every step of the SSTSS process using D2overlap.</br>
 
+5. **Data Statistics** - shows the distribution of fatality statistics from both D1 - (US) and D2 - (EU) Datasets.
+
