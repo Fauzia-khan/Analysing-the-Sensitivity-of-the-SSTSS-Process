@@ -2,7 +2,7 @@
 
 1. **SSTSS Process Flowchart**  - shows the detailed flowchart for the SSTSS Process. </br>
 
-2.**SSTSS process Application Results using ODD1**  - shows the  detailed results of every step of the SSTSS process using ODD1. </br>
+2. **SSTSS process Application Results using ODD1**  - shows the  detailed results of every step of the SSTSS process using ODD1. </br>
 
 3. **SSTSS process Application Results using ODD2**  -  shows the  detailed results of every step of the SSTSS process using ODD2. </br>
 
