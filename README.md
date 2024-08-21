@@ -15,3 +15,5 @@
 7. **Data Statistics** - shows the distribution of fatality statistics from both D1 - (US) and D2 - (EU) Datasets.
 
 8. **Scenario Groups in SSTSS Process** - shows the definition of formulated 15 scenario groups in SSTSS Process along with examples.
+  
+9. **Scoreboard created using D1, D2, D1overlap, D2overlap**  - shows the scoreboard created using each dataset. These scores are assigned to each scenario within each scenario group in step(viii) of the SSTSS Process.
