@@ -14,3 +14,4 @@
 
 7. **Data Statistics** - shows the distribution of fatality statistics from both D1 - (US) and D2 - (EU) Datasets.
 
+8. **Scenario Groups in SSTSS Process** - shows the definition of formulated 15 scenario groups in SSTSS Process along with examples.
