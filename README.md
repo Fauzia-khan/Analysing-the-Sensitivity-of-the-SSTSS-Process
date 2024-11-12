@@ -42,9 +42,9 @@
 
 21. **A sample output of the SSTSS Process**  - shows an example output of the SSTSS Process. </br>
 
-22. **Test Scenarios - Catalog 1** - Consists of the list of scenarios from the land transport authority of Singapore. </br>
+22. **Test Scenarios - Land Transport Authority of Singapore** - Consists of the list of scenarios from the Land Transport Authority of Singapore. </br>
 
-23. **Test Scenarios - Catalog 2** - Consists of the list of scenarios from the US Department of Transportation. </br>
+23. **Test Scenarios - US Dept. of Transportation** - Consists of the list of scenarios from the US Department of Transportation. </br>
 
 
 
