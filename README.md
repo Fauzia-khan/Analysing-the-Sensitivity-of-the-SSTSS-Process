@@ -40,6 +40,8 @@
 
 20. **Table H** - shows the final output $O_{d2ovlp}$. </br>
 
+21. **A sample output of the SSTSS Process**  - shows an example output of the SSTSS Process. </br>
+
 
 
 
