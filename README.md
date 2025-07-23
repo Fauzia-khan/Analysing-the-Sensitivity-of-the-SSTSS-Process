@@ -48,7 +48,7 @@
 
 24. **Scenarios sub-elements common to both datasets** - Shows the sub-element of scenarios from the catalog that are common to both datasets.
     
-26.  ** SECUR-D1.1-Accident Scenarios Description** - Shows the accident dataset i.e., D2 - (EU) Dataset
+26. **SECUR-D1.1-Accident Scenarios Description** - Shows the accident dataset i.e., D2 - (EU) Dataset
 
 
 
