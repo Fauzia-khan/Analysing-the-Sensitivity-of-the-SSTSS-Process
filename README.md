@@ -48,7 +48,15 @@
 
 24. **Scenarios sub-elements common to both datasets** - Shows the sub-element of scenarios from the catalog that are common to both datasets.
     
-26. **SECUR-D1.1-Accident Scenarios Description** - Shows the accident dataset i.e., D2 - (EU) Dataset
+25. **SECUR-D1.1-Accident Scenarios Description** - Shows the accident dataset i.e., D2 - (EU) Dataset
+    
+26. **Figure G and H** - Shows the Number of fatalities per scenario group in D1 and D2 respectively.
+
+27. **Mapping of fatality groups in D1 (US) and D2 (EU) datasets.pdf** - Shows the  Figure for Mapping of fatality groups in D1 (US) and D2 (EU) datasets to scenario groups in SSTSS process and a Table showing prioritization of Scenario Groups Using D1 (US) and D2 (EU).
+
+28. **Scenario Components their Elements and comparison between D1 and D2 .pdf** - Shows the table for Scenario Components their Elements and comparison between D1 and D2, and a detailed comparison of both datasets along with the figures showing fatality percentages.
+
+29. **ODD Attributes and Comparison between ODD1 and ODD2.pdf**  - Shows the ODD Attributes and a detailed comparison between ODD1 and ODD2.pdf
 
 
 
