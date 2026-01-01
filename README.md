@@ -18,7 +18,7 @@
 
 9. **Excelsheet - $O_{d2ovlp}$ - SSTSS process Application Results using $D2_{overlap}$** - shows the final output $O_{d2ovlp}$ and detailed results of every step of the SSTSS process using dataset $D2_{overlap}$. </br>
 
-10. **Data Statistics** - shows the distribution of fatality statistics from both D1 - (US) and D2 - (EU) Datasets.
+10. **Data_Statistics** - shows the distribution of fatality statistics from both D1 - (US) and D2 - (EU) Datasets.
 
 11. **Scenario Groups in SSTSS Process** - shows the definition of formulated 15 scenario groups in SSTSS Process along with examples.
   
