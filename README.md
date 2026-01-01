@@ -58,6 +58,6 @@
 
 29. **ODD Attributes and Comparison between ODD1 and ODD2.pdf**  - Shows the ODD Attributes and a detailed comparison between ODD1 and ODD2.pdf
     
-31.  **Initial_List_of_Test_Scenarios**  - Shows the scenario catalog containing 111 scenarios in total
+31.  **Initial_List_of_Test_Scenarios**  - Shows the scenario catalog containing 111 scenarios in total.
 
 
