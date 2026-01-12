@@ -1,6 +1,6 @@
 # Analysing-the-Sensitivity-of-the-SSTSS-Process
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Table: Reproducibility table**
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Table: Reproducibility details for the SSTSS sensitivity analysis**
 
 | **Item** | **Description** |
 |----------------|---------------|
