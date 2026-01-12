@@ -11,7 +11,7 @@
 | Random seeds    |Not applicable (deterministic SSTSS process)|
 |Scenario prioritization|Scoreboard-based prioritization of scenarios derived from dataset statistics:[\url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Scoreboards.xlsx}](https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Scoreboards.xlsx)|
 
-&emsp; **Table: Reproducibility table**
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Table: Reproducibility table**
 
 1. **SSTSS Process Flowchart**  - shows the detailed flowchart for the SSTSS Process. </br>
 
