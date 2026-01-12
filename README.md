@@ -4,9 +4,8 @@
 |----------------|---------------|
 | Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
 | Scenario catalog| Excel file containing the initial list of 111 test scenarios used in the SSTSS process: \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Initial_List_of_Test_Scenarios.xlsx}| 
-| Raw datasets    | $D1$ (US crash dataset): \url{https://cdan.dot.gov/tsftables/tsfar.htm} 
-$D2$ (EU crash dataset): SECUr project documentation (SECUR-D1.1-Accident-scenarios-description-v1.3.pdf), available at \url{https://www.utac.com/secur}|
-|Processed dataset| Excel file summarizing accident statistics by scenario elements and sub-elements for both US and EU datasets (cleaned and aggregated version used as input to SSTSS): \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Data_Statistics.xlsx}| 
+| Raw datasets    | $D1$ (US crash dataset): \url{https://cdan.dot.gov/tsftables/tsfar.htm} $D2$ (EU crash dataset): SECUr project documentation (SECUR-D1.1-Accident-scenarios-description-v1.3.pdf), available at \url{https://www.utac.com/secur}|
+|Processed dataset| Excel file summarizing accident statistics by scenario elements and sub-elements for both US and EU datasets (cleaned and aggregated version used as input to SSTSS):\url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Data_Statistics.xlsx}| 
 | Simulator       | CARLA simulator, version 0.9.13 (used to define simulator capability constraints; no simulation runs executed)| 
 | ODDs            | ODD1 and ODD2 used in the sensitivity analysis: \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Table\%201.pdf}| 
 
