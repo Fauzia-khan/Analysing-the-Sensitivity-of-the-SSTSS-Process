@@ -2,8 +2,8 @@
 
 | **First Name** | **Last Name** |
 |----------------|---------------|
-| Repository      | Main repository containing all materials related to this paper, including data and results: \\
-& \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main} \\     
+| Repository      | Main repository containing all materials related to this paper, including data and results: 
+& \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
 
 
 1. **SSTSS Process Flowchart**  - shows the detailed flowchart for the SSTSS Process. </br>
