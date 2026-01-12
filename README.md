@@ -4,10 +4,11 @@
 |----------------|---------------|
 | Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
 | Scenario catalog| Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
-| Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}|
-| Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
-| Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
-| Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
+| Raw datasets    | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}|
+|Processed dataset| Excel file summarizing accident statistics by scenario elements and sub-elements for both US and EU datasets (cleaned and aggregated version used as input to SSTSS): \\
+& \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Data_Statistics.xlsx}| 
+| Simulator       | CARLA simulator, version 0.9.13 (used to define simulator capability constraints; no simulation runs executed)| 
+| ODDs            | ODD1 and ODD2 used in the sensitivity analysis: \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Table\%201.pdf}| 
 
 
 1. **SSTSS Process Flowchart**  - shows the detailed flowchart for the SSTSS Process. </br>
