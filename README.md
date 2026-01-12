@@ -1,5 +1,11 @@
 # Analysing-the-Sensitivity-of-the-SSTSS-Process
 
+| **First Name** | **Last Name** |
+|----------------|---------------|
+| Repository      | Main repository containing all materials related to this paper, including data and results: \\
+& \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main} \\     
+
+
 1. **SSTSS Process Flowchart**  - shows the detailed flowchart for the SSTSS Process. </br>
 
 2. **Excelsheet - O11 - SSTSS process Application Results using ODD1 - D1 Dataset**  - shows the final output $O_{11}$ and detailed results of every step of the SSTSS process using ODD1 and D1. </br>
