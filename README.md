@@ -1,7 +1,9 @@
 # Analysing-the-Sensitivity-of-the-SSTSS-Process
 
-| **First Name** | **Last Name** |
+| **Item** | **Description** |
 |----------------|---------------|
+| Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
+| Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
 | Repository      | Main repository containing all materials related to this paper, including data and results: and \url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}| 
 
 
