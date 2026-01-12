@@ -1,5 +1,7 @@
 # Analysing-the-Sensitivity-of-the-SSTSS-Process
 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Table: Reproducibility table**
+
 | **Item** | **Description** |
 |----------------|---------------|
 | Repository      | Main repository containing all materials related to this paper, including data and results:[\url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main}](https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/tree/main)| 
@@ -11,7 +13,7 @@
 | Random seeds    |Not applicable (deterministic SSTSS process)|
 |Scenario prioritization|Scoreboard-based prioritization of scenarios derived from dataset statistics:[\url{https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Scoreboards.xlsx}](https://github.com/Fauzia-khan/Analysing-the-Sensitivity-of-the-SSTSS-Process/blob/main/Scoreboards.xlsx)|
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Table: Reproducibility table**
+
 
 1. **SSTSS Process Flowchart**  - shows the detailed flowchart for the SSTSS Process. </br>
 
